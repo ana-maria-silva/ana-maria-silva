@@ -4,7 +4,7 @@
 
 ## <code>Hello World, GitHub!</code>
 
-:mortar_board: Cientista da Computação | Analista de TI <br>
+:mortar_board: Cientista da Computação | Analista de TI | Cursando a Pós-Tech IA para Devs<br>
 :mortar_board: Especialista em Ergodesign de Interfaces | Pós-Graduação em Análise e Projeto de Sistemas <br>
 :computer: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e Front-end para devs. <br>
 💜 Embaixadora PrograMaria e Alura Star
