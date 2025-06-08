@@ -4,11 +4,11 @@
 
 ## <code>Hello World, GitHub!</code>
 
-:mortar_board: Cientista da Computação | Analista de TI | Cursando Pós-Tech IA para Devs - FIAP<br>
+:mortar_board: Cientista da Computação | Analista de TI | Cursando Pós Tech: IA para Devs - FIAP<br>
 :mortar_board: Especialista em Ergodesign de Interfaces | Pós-Graduação em Análise e Projeto de Sistemas <br>
+💜 Embaixadora PrograMaria e Alura Star <br>
 :computer: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e Front-end para devs. <br>
-💜 Embaixadora PrograMaria e Alura Star
-<br><br>
+<br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> 
 
 ## Contatos:
