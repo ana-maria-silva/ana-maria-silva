@@ -23,6 +23,10 @@
 
 <br>
 
+:computer: Projetos e repositórios colaborativos no meu perfil: [github.com/anamariasilva](https://github.com/anamariasilva)
+
+<br>
+
 [Badge GitHub Copilot Challenge by Credly](https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c) ao conclui o GitHub Copilot BootCamp no Microsoft Learn
 <br><br>
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" />
