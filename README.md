@@ -15,19 +15,27 @@
 <br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> 
 
-## Contatos:
+
+## Contatos
+
+<a href="mailto:contato@anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamaria.dev.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a> <br>
 
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=blue"/></a> 
-<a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"/></a> 
-<a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-%23E4405F.svg?style=for-the-badge&logo=microsoft&logoColor=white&color=blue"/></a> 
+<a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=blue"/></a> 
+<a href="https://docs.microsoft.com/pt-br/users/anamariasilva/">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> 
-<a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/Dev Community-%23E4405F.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=blue"/></a> 
 
-<a href="mailto:contato@anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamaria.dev.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a>
+## Conteúdos 
+
+:globe_with_meridians: [Perfil Alura](https://cursos.alura.com.br/user/anamariasilva) <br>
+:globe_with_meridians: [Dev Community](https://dev.to/anamaria) <br>
+:globe_with_meridians: [Newsletter Boletim Tech | LinkedIn](https://www.linkedin.com/pulse/bolha-estourou-como-ingressar-na-carreira-de-dev-em-ackec?trk=news-guest_share-article) <br>
+:globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana/https://community.revelo.com/author/ana/)
+
 
 <br>
 
-[Badge GitHub Copilot Challenge by Credly](https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c) ao conclui o GitHub Copilot BootCamp no Microsoft Learn
+[Badge GitHub Copilot Challenge by Credly](https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c)
 <br><br>
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" />
 
