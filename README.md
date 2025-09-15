@@ -4,10 +4,15 @@
 
 ## <code>Hello World, GitHub!</code>
 
-:mortar_board: Cientista da Computação | Analista de TI | Cursando Pós Tech: IA para Devs - FIAP<br>
+:computer: Cursando Pós Tech: IA para Devs - FIAP <br>
 :mortar_board: Especialista em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação | Pós-Graduação em Análise e Projeto de Sistemas <br>
-💜 Embaixadora PrograMaria e Alura Star <br>
+:globe_with_meridians: Analista de TI | Cientista da Computação <br>
+:blue_heart: Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA para devs. <br>
+<br>
+
+:computer: Projetos e repositórios colaborativos no meu perfil: [github.com/anamariasilva](https://github.com/anamariasilva)
+
 <br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> 
 
@@ -20,10 +25,6 @@
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/Dev Community-%23E4405F.svg?style=for-the-badge&logo=dev.to&logoColor=white&color=blue"/></a> 
 
 <a href="mailto:contato@anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamaria.dev.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a>
-
-<br>
-
-:computer: Projetos e repositórios colaborativos no meu perfil: [github.com/anamariasilva](https://github.com/anamariasilva)
 
 <br>
 
