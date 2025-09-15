@@ -10,7 +10,6 @@
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA para devs. <br>
 <br>
-
 :computer: Projetos e repositórios colaborativos no meu perfil: [github.com/anamariasilva](https://github.com/anamariasilva)
 
 <br>
