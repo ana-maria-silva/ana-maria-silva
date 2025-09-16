@@ -37,4 +37,4 @@
 
 [Badge GitHub Copilot Challenge by Credly](https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c)
 <br><br>
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" />
