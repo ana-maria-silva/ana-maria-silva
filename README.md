@@ -33,13 +33,8 @@
 :globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
 :globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana/https://community.revelo.com/author/ana/)
 
-
 <br>
 
 [Badge GitHub Copilot Challenge by Credly](https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c)
 <br><br>
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" />
-
-<img width="610" height="343" alt="image" src="https://github.com/user-attachments/assets/12374e36-768f-45fd-a121-63568afa466d" />
-
-
