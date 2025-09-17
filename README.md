@@ -31,7 +31,8 @@
 :globe_with_meridians: [Dev Community](https://dev.to/anamaria) <br>
 :globe_with_meridians: [Newsletter Boletim Tech | LinkedIn](https://www.linkedin.com/pulse/bolha-estourou-como-ingressar-na-carreira-de-dev-em-ackec?trk=news-guest_share-article) <br>
 :globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
-:globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana/https://community.revelo.com/author/ana/)
+:globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana/https://community.revelo.com/author/ana/) <br>
+:globe_with_meridians: [Episódios de podcasts que participei | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj)
 
 <br>
 
