@@ -4,7 +4,7 @@
 
 ## <code>Hello World, GitHub!</code>
 
-:computer: Cursando Pós Tech: IA para Devs - FIAP <br>
+:computer: Cursando Pós Tech IA para Devs na FIAP <br>
 :mortar_board: Especialista em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação | Pós-Graduação em Análise e Projeto de Sistemas <br>
 :globe_with_meridians: Analista de TI | Cientista da Computação <br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
@@ -25,14 +25,22 @@
 <a href="https://docs.microsoft.com/pt-br/users/anamariasilva/">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)</a>
 <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> 
 
-## Conteúdos 
+## Perfis
 
 :globe_with_meridians: [Perfil Alura](https://cursos.alura.com.br/user/anamariasilva) <br>
-:globe_with_meridians: [Dev Community](https://dev.to/anamaria) <br>
+:globe_with_meridians: [Perfil Microsoft Learn](https://learn.microsoft.com/pt-br/users/anamariasilva/) <br>
+:globe_with_meridians: [Perfil Google Developers](https://g.dev/anamariasilva) <br>
+:globe_with_meridians: [Dev Community](https://dev.to/anamaria) 
+
+## Conteúdos Content Creator
+
+:globe_with_meridians: [Página Oficial Embaixadores Alura Stars](https://www.alura.com.br/stars) <br>
 :globe_with_meridians: [Newsletter Boletim Tech | LinkedIn](https://www.linkedin.com/pulse/bolha-estourou-como-ingressar-na-carreira-de-dev-em-ackec?trk=news-guest_share-article) <br>
 :globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
 :globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana/https://community.revelo.com/author/ana/) <br>
-:globe_with_meridians: [Episódios de podcasts que participei | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj)
+:globe_with_meridians: [Episódios de podcasts que participei | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj) <br>
+:globe_with_meridians: [Entrevista Programe como uma Garota](https://programecomoumagarota.com/mulheres-que-inspiram-ana-maria/) <br>
+:globe_with_meridians: [Entrevista Brazilians in Tech](https://www.braziliansintech.com/elas)
 
 <br>
 
