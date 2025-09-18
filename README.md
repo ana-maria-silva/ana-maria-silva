@@ -8,7 +8,7 @@
 :mortar_board: Especialista em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação | Pós-Graduação em Análise e Projeto de Sistemas <br>
 :globe_with_meridians: Analista de TI | Cientista da Computação <br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
-:globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA para devs. <br>
+:globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA para devs <br>
 <br>
 :computer: Projetos e repositórios colaborativos no meu perfil: [github.com/anamariasilva](https://github.com/anamariasilva)
 
@@ -35,12 +35,12 @@
 ## Conteúdos Content Creator
 
 :globe_with_meridians: [Página Oficial Embaixadores Alura Stars](https://www.alura.com.br/stars) <br>
+:globe_with_meridians: [Entrevista Programe como uma Garota](https://programecomoumagarota.com/mulheres-que-inspiram-ana-maria/) <br>
 :globe_with_meridians: [Newsletter Boletim Tech | LinkedIn](https://www.linkedin.com/pulse/bolha-estourou-como-ingressar-na-carreira-de-dev-em-ackec?trk=news-guest_share-article) <br>
 :globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
-:globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana) <br>
 :globe_with_meridians: [Episódios de podcasts que participei como convidada | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj) <br>
 :globe_with_meridians: [Episódios de podcasts tech para devs | Playlist Spotify](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1) <br>
-:globe_with_meridians: [Entrevista Programe como uma Garota](https://programecomoumagarota.com/mulheres-que-inspiram-ana-maria/) <br>
+:globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana) <br>
 :globe_with_meridians: [Entrevista Brazilians in Tech](https://www.braziliansintech.com/elas)
 
 <br>
