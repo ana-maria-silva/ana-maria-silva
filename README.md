@@ -15,7 +15,6 @@
 <br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> 
 
-
 ## Contatos
 
 <a href="mailto:contato@anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=E-mail&message=contato@anamaria.dev.br&logo=mail&logoColor=white&color=blue&style=for-the-badge"/></a> 
@@ -27,7 +26,6 @@
 <a href="https://cursos.alura.com.br/user/anamariasilva"><img alt="Perfil Alura" src="https://img.shields.io/badge/Perfil Alura-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/></a> 
 
-
 ## Conteúdos Content Creator
 
 :globe_with_meridians: [Página Oficial Embaixadores Alura Stars](https://www.alura.com.br/stars) <br>
@@ -38,6 +36,10 @@
 :globe_with_meridians: [Episódios de podcasts tech para devs | Playlist Spotify](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1) <br>
 :globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana) <br>
 :globe_with_meridians: [Entrevista Brazilians in Tech](https://www.braziliansintech.com/elas)
+
+## Badges de contribuição
+
+[![An image of @anamariasilva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamariasilva)](https://holopin.io/@anamariasilva)
 
 <br>
 
