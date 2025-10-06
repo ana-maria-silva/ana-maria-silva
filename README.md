@@ -5,7 +5,10 @@
 ## <code>Hello World, GitHub!</code>
 
 :computer: Cursando Pós Tech IA para Devs na FIAP <br>
-:mortar_board: Pós-Graduação em Análise e Projeto de Sistemas - PUC-Rio | Especialista em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação - PUC-Rio | Bacharel em Ciência da Computação - UERJ<br>
+:mortar_board: Pós-Graduação em Análise e Projeto de Sistemas - PUC-Rio <br>
+:mortar_board: Pós-Graduação em Tecnologias e Inovações para Web - SENAC <br>
+:mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação - PUC-Rio <br>
+:mortar_board: Bacharel em Ciência da Computação - UERJ <br>
 :globe_with_meridians: Analista de TI <br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA para devs <br>
