@@ -37,8 +37,9 @@
 :globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
 :globe_with_meridians: [Episódios de podcasts que participei como convidada | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj) <br>
 :globe_with_meridians: [Episódios de podcasts tech para devs | Playlist Spotify](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1) <br>
-:globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana) <br>
-:globe_with_meridians: [Entrevista Brazilians in Tech](https://www.braziliansintech.com/elas)
+:globe_with_meridians: [Meus Artigos Blog Revelo Community](https://community.revelo.com/author/ana) <br>
+:globe_with_meridians: [27 desenvolvedoras brasileiras para se inspirar em 2022](https://community.revelo.com.br/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
+:globe_with_meridians: [Brazilians in Tech | Elas Inspiram](https://www.braziliansintech.com/elas)
 
 ## Badges de Contribuição Hacktoberfest
 
@@ -47,3 +48,8 @@
 ## Reconhecimentos e Credenciais
 
 <a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" /></a> 
+<img width="300" height="169" alt="image" src="https://github.com/user-attachments/assets/281c4f38-3be4-42f7-a267-0de7acfff76c" />
+<img width="300" height="212" alt="image" src="https://github.com/user-attachments/assets/897e0341-9217-469f-9cab-8bd3e8a2a645" />
+
+
+
