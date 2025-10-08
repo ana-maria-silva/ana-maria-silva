@@ -4,16 +4,16 @@
 
 ## <code>Hello World, GitHub!</code>
 
-:computer: Cursando Pós Tech IA para Devs - FIAP <br>
+:mortar_board: Cursando Pós Tech IA para Devs - FIAP <br>
 :mortar_board: Pós-Graduação em Análise e Projeto de Sistemas - PUC-Rio <br>
 :mortar_board: Pós-Graduação em Tecnologias e Inovações para Web - SENAC <br>
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação - PUC-Rio <br>
 :mortar_board: Bacharel em Ciência da Computação - UERJ <br>
-:globe_with_meridians: Analista de TI <br>
+:computer: Analista de TI <br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
 :globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA para devs <br>
 <br>
-:computer: Projetos e repositórios colaborativos no meu perfil: [github.com/anamariasilva](https://github.com/anamariasilva)
+:computer: Projetos e repositórios colaborativos no meu perfil GitHub: [github.com/anamariasilva](https://github.com/anamariasilva)
 
 <br>
 <a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=Site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=Portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=for-the-badge"/></a> 
@@ -40,10 +40,10 @@
 :globe_with_meridians: [Artigos Blog Revelo Community](https://community.revelo.com/author/ana) <br>
 :globe_with_meridians: [Entrevista Brazilians in Tech](https://www.braziliansintech.com/elas)
 
-## Badges de contribuição
+## Badges de Contribuição Hacktoberfest
 
 [![An image of @anamariasilva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamariasilva)](https://holopin.io/@anamariasilva)
 
-<br>
+## Reconhecimentos e Credenciais
 
 <a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" /></a> 
