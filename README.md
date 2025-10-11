@@ -24,6 +24,8 @@
 <a href="https://www.instagram.com/ana.tech.dev/"><img alt="logo Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=blue"/></a> 
 <a href="https://www.linkedin.com/in/anamariasilva"><img alt="logo LinkedIn" src="https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue"/></a> 
 
+## Badges, Selos e Credenciais
+
 <a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> 
 <a href="https://cursos.alura.com.br/user/anamariasilva"><img alt="Perfil Alura" src="https://img.shields.io/badge/Perfil Alura-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
@@ -41,11 +43,11 @@
 :globe_with_meridians: [27 desenvolvedoras brasileiras para se inspirar em 2022](https://community.revelo.com.br/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 :globe_with_meridians: [Brazilians in Tech | Elas Inspiram](https://www.braziliansintech.com/elas)
 
-## Badges de Contribuição Hacktoberfest
+## Contribuição Hacktoberfest
 
 [![An image of @anamariasilva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamariasilva)](https://holopin.io/@anamariasilva)
 
-## Reconhecimentos e Credenciais
+<br>
 
 <a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" /></a>
 
