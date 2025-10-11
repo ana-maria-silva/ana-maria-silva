@@ -26,7 +26,7 @@
 
 ## Badges, Selos e Credenciais
 
-<a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+<a href="https://docs.microsoft.com/pt-br/users/anamariasilva/"><img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 <a href="https://g.dev/anamariasilva"><img alt="Google for Developers" src="https://img.shields.io/badge/Google for Developers-%23E4405F.svg?style=for-the-badge&logo=google&logoColor=white&color=blue"/></a> 
 <a href="https://cursos.alura.com.br/user/anamariasilva"><img alt="Perfil Alura" src="https://img.shields.io/badge/Perfil Alura-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a> 
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/></a> 
