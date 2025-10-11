@@ -47,9 +47,7 @@
 
 ## Reconhecimentos e Credenciais
 
-<a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" /></a> 
-<img width="300" height="169" alt="image" src="https://github.com/user-attachments/assets/281c4f38-3be4-42f7-a267-0de7acfff76c" />
-<img width="300" height="212" alt="image" src="https://github.com/user-attachments/assets/897e0341-9217-469f-9cab-8bd3e8a2a645" />
+<a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" /></a>
 
 
 
