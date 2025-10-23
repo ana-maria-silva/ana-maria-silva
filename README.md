@@ -1,6 +1,6 @@
 # GitHub da Ana Maria
 
-![cabeçalho do README do GitHub da Ana Maria](https://www.anamaria.dev.br/github/capa-readme-github.png)
+![capa README do GitHub da Ana Maria](https://www.anamaria.dev.br/github/capa-readme.png)
 
 ## <code>Hello World, GitHub!</code>
 
