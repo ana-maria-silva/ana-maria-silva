@@ -45,6 +45,8 @@
 
 ## Contribuição Hacktoberfest
 
+[Badges de Contribuição Hacktoberfest | Holopin](https://www.holopin.io/@anamariasilva#badges)
+
 [![An image of @anamariasilva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamariasilva)](https://holopin.io/@anamariasilva)
 
 <br>
