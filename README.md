@@ -43,7 +43,7 @@
 :globe_with_meridians: [27 desenvolvedoras brasileiras para se inspirar em 2022](https://community.revelo.com.br/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 :globe_with_meridians: [Brazilians in Tech | Elas Inspiram](https://www.braziliansintech.com/elas)
 
-## Contribuição Hacktoberfest
+## Badges de Contribuição Hacktoberfest
 
 [Badges de Contribuição Hacktoberfest | Holopin](https://www.holopin.io/@anamariasilva#badges)
 
