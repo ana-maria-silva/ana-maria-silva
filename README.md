@@ -53,6 +53,7 @@
 
 <a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/44c0b49f-5574-40fa-9fb1-4140dff52847" /></a>
 
+<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ana-maria-silva/ana-maria-silva/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ana-maria-silva/ana-maria-silva/output/github-contribution-grid-snake.svg">
