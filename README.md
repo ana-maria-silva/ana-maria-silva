@@ -43,7 +43,7 @@
 <a href="https://cursos.alura.com.br/user/anamariasilva"><img alt="Perfil Alura" src="https://img.shields.io/badge/Perfil Alura-%23E4405F.svg?style=for-the-badge&logoColor=white&color=blue"/></a>
 <a href="https://dev.to/anamaria"><img alt="Dev Community" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/></a> 
 
-<a href="https://www.credly.com/users/anamariasilva/badges#credly"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/98f85da9-cddd-4227-b0aa-2643e1dcd57f" /></a>
+<a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c/public_url"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/98f85da9-cddd-4227-b0aa-2643e1dcd57f" /></a> <a href="https://www.credly.com/badges/26fbce03-d291-4d8f-942d-752d26a756ad/public_url"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b0c9d721-966a-4f71-b6e2-e7e2b431bae6" /></a>
 
 [Badges de Contribuição Hacktoberfest | Holopin](https://www.holopin.io/@anamariasilva#badges)
 
