@@ -43,7 +43,7 @@
 
 ## Badges, Selos e Credenciais
 
-<a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c/public_url"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/98f85da9-cddd-4227-b0aa-2643e1dcd57f" /></a> <a href="https://www.credly.com/badges/26fbce03-d291-4d8f-942d-752d26a756ad/public_url"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/b0c9d721-966a-4f71-b6e2-e7e2b431bae6" /></a> <a href="https://www.holopin.io/@anamariasilva#badges"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/02a097e2-481f-45d8-81a9-e2451532961e" /></a>
+<a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c/public_url"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/98f85da9-cddd-4227-b0aa-2643e1dcd57f" /></a> <a href="https://www.credly.com/badges/26fbce03-d291-4d8f-942d-752d26a756ad/public_url"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b0c9d721-966a-4f71-b6e2-e7e2b431bae6" /></a> 
 
 
 [Badges de Contribuição Hacktoberfest | Holopin](https://www.holopin.io/@anamariasilva#badges)
