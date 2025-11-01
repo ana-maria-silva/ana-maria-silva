@@ -36,9 +36,7 @@
 :globe_with_meridians: [Newsletter Boletim Tech | LinkedIn](https://www.linkedin.com/pulse/bolha-estourou-como-ingressar-na-carreira-de-dev-em-ackec?trk=news-guest_share-article) <br>
 :globe_with_meridians: [Certificado de reconhecimento por contribuições | 2025 WomenTech Network Global Awards](https://www.womentech.net/certificate-nominated/Ana%20Maria/Silva?_se=Y29udGF0b0BhbmFtYXJpYS5kZXYuYnI%3D) <br>
 :globe_with_meridians: [Episódios de podcasts que participei como convidada | Playlist Spotify](https://open.spotify.com/playlist/2ccnya2Ld9qk74r4rxRxXj) <br>
-:globe_with_meridians: [Episódios de podcasts tech para devs | Playlist Spotify](https://open.spotify.com/playlist/2grGG2vgZOOE0RjuWVV5iv?si=7uR86uv2S_aOOJ2bO0aygA&dl_branch=1&nd=1) <br>
 :globe_with_meridians: [Meus Artigos Blog Revelo Community](https://community.revelo.com/author/ana) <br>
-:globe_with_meridians: [27 desenvolvedoras brasileiras para se inspirar em 2022](https://community.revelo.com.br/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 :globe_with_meridians: [Brazilians in Tech | Elas Inspiram](https://www.braziliansintech.com/elas)
 
 ## Badges, Selos e Credenciais
