@@ -42,10 +42,12 @@
 
 ## Badges, Selos e Credenciais
 
+### [Badges Credly](https://www.credly.com/users/anamariasilva/badges#credly)
+
 <a href="https://www.credly.com/badges/707a058b-9fa7-4c85-a9e2-b5dffafad910"><img width="100" height="100" alt="Artificial Intelligence Fundamentals" src="https://github.com/user-attachments/assets/3f83289a-447f-4076-a6a0-cd9886b7a112" /></a> <a href="https://www.credly.com/badges/73314a89-ca26-4b10-b559-e34a54c1ee5f/public_url"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f551e5ef-6cae-48ea-bca2-daca37a500a0" /></a> <a href="https://www.credly.com/badges/26fbce03-d291-4d8f-942d-752d26a756ad/public_url"><img width="100" height="100" alt="Cisco Python Essentials 1" src="https://github.com/user-attachments/assets/b0c9d721-966a-4f71-b6e2-e7e2b431bae6" /></a> <a href="https://www.credly.com/badges/5fc99802-4273-453d-bbfb-9f03e4e0d70c/public_url"><img width="100" height="100" alt="GitHub Copilot Challenge" src="https://github.com/user-attachments/assets/98f85da9-cddd-4227-b0aa-2643e1dcd57f" /></a> 
 
 
-[Badges de Contribuição Hacktoberfest | Holopin](https://www.holopin.io/@anamariasilva#badges)
+### [Badges de Contribuição Hacktoberfest](https://www.holopin.io/@anamariasilva#badges)
 
 [![An image of @anamariasilva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamariasilva)](https://holopin.io/@anamariasilva)
 
