@@ -9,9 +9,9 @@
 :mortar_board: Pós-Graduação em Tecnologias e Inovações para Web - SENAC <br>
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação - PUC-Rio <br>
 :mortar_board: Bacharel em Ciência da Computação - UERJ <br>
-:computer: Analista de TI <br>
+:computer: Analista de TI | Dev<br>
 :blue_heart: Embaixadora PrograMaria e Alura Star <br>
-:globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA para devs <br>
+:globe_with_meridians: Criadora de conteúdo no Instagram <a href="https://www.instagram.com/ana.tech.dev/">@ana.tech.dev</a> sobre Tecnologia e IA <br>
 <br>
 :computer: Projetos e repositórios colaborativos no meu perfil GitHub: [github.com/anamariasilva](https://github.com/anamariasilva)
 
