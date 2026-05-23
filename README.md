@@ -5,7 +5,6 @@
 ## <code>Hello World, GitHub!</code>
 
 :trophy: ITIL Foundation Certificate in IT Service Management (2026) <br>
-:mortar_board: Cursando Pós Tech IA para Devs - FIAP <br>
 :mortar_board: Pós-Graduação em Análise e Projeto de Sistemas - PUC-Rio <br>
 :mortar_board: Pós-Graduação em Tecnologias e Inovações para Web - SENAC <br>
 :mortar_board: Pós-Graduação em Ergodesign de Interfaces: Usabilidade e Arquitetura da Informação - PUC-Rio <br>
